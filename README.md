@@ -1,1 +1,1 @@
-This repository contains a short explanation of Maximum Likelihood Estimation, with simulations in Python. I created it to revise my own knowledge on this aspect of parameter estimation. (In the educational loop of "See one, do one, teach one" I thought "teach one" was lacking!)
+This repository contains a short explanation of Maximum Likelihood Estimation, with simulations in Python. 
